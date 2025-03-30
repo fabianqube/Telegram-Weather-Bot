@@ -10,9 +10,9 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from apscheduler.schedulers.background import BackgroundScheduler
 
 # Constants
-USERNAME: Final = '@Fab1Andr3i_bot'
-TOKEN: Final = '7902930005:AAGTLE7wmKzjruTbeSf3LctqSgET8Z2mUBY'
-WEATHER_TOKEN: Final = 'ccee67d3e95fe54022499f61cc720ac0'
+USERNAME: Final = ''
+TOKEN: Final = ''
+WEATHER_TOKEN: Final = ''
 
 # Load environment variables
 load_dotenv()
